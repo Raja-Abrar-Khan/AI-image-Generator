@@ -1,0 +1,16 @@
+.ai-image-generator{
+    /* display: flex;
+    flex-direction: column;
+    margin: auto; */
+}
+.img-loading img{
+    width:512px;
+
+}
+
+.search-input::placeholder{
+    color: #999;
+}
+.generate-btn{
+    
+}
